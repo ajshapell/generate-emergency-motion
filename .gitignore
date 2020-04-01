@@ -1,0 +1,7 @@
+*.docx
+!motion_template.docx
+sent/
+venv/
+.vscode/
+locate_defendants/
+*.json
