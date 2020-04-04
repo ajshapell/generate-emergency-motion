@@ -5,3 +5,4 @@ venv/
 .vscode/
 locate_defendants/
 *.json
+*.pyc
